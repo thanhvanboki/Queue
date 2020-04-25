@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//bai tập về queue
 struct node{
 	int data;
 	struct node *pNext;
